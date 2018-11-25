@@ -1,6 +1,6 @@
 # UnidaysPlacementChallenge
 Approach:
-- Test class(main class_:
+- Test class(main class):
 	- create a rule list of items
 	- start shopping by adding items in bag
 	- calculate result
