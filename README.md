@@ -22,5 +22,5 @@ Approach:
 	- I considered discount given as Strig and classified them based on key words such as "free" or "price". That's how I know how to make use of numbers in the discount string in order to calculate the total price amount.
 
 Run:
-- take all java files, put them into a folder called <testunidaysdiscountschallenge> and run it on an IDE such as NetBeans or Eclipse.
+- take all java files, put them into a folder called **testunidaysdiscountschallenge** and run it on an IDE such as NetBeans or Eclipse.
 - the test class lets you change the pricingRule items and also based on those items, change the type of items added in basket.
